@@ -7,3 +7,5 @@ Many of the WAV files would not load in the emulator.
 The final version of this game had a graphical map that would be loaded into the graphics memory of the computer and could be displayed as needed (toggled with a hot key).
 
 ![](Sam-Valentino-Galahad-Real-Estate-Cassette-cover.jpg)
+
+The cassette cover art was done by [Sam Valentino](https://www.linkedin.com/in/sam-valentino-1799757/).
